@@ -54,5 +54,8 @@
     "semi": true,
     "singleQuote": false,
     "trailingComma": "es5"
+  },
+  "dependencies": {
+    "@peculiar/webcrypto": "^1.4.0"
   }
 }
